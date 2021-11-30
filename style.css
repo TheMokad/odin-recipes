@@ -1,0 +1,20 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+.bigHeading {
+    font-size: 40px;
+}
+
+h2 {
+    background-color: darkgray;
+    color: white;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.listParent, .mainDesc {
+    background-color: lightgray;
+}
